@@ -1,13 +1,13 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: gdrive
-Source: https://github.com/prasmussen/gdrive
+Source: https://github.com/doctorfree/gdrive
 
 Files: *
 Copyright: 2013 Petter Rasmussen <petter@hask.no>
 License: MIT
 
-Files: debian/*
-Copyright: 2021 Andras Elso <elso.andras@gmail.com>
+Files: scripts/*
+Copyright: 2022 Ronald Joe Record <ronaldrecord@gmail.com>
 License: MIT
 
 License: MIT
