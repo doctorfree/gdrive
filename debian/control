@@ -1,4 +1,0 @@
-Package: gdrive
-Architecture: amd64
-Description: Google Drive CLI Client
- gdrive is a command line utility for interacting with Google Drive.
