@@ -3,9 +3,7 @@ Version:    %{_version}
 Release:    %{_release}
 Summary:    Google Drive Command Line Tools
 License:    MIT
-BuildArch:  noarch
-Requires:
-Recommends:
+BuildArch:  x86_64
 URL:        https://github.com/doctorfree/gdrive
 Vendor:     Doctorwhen's Bodacious Laboratory
 Packager:   ronaldrecord@gmail.com
